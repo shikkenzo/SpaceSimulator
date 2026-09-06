@@ -1,0 +1,10 @@
+# Generated Visual Studio files
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+.vs/
+
+# Build output
+bin/
+bin-int/
